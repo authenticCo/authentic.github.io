@@ -22,8 +22,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Quoty](http://authenticco/github.io/index.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -31,6 +29,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/authenticCo/authentic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+[Quoty](http://authenticco/github.io/index.html)
+
 
 ### Support or Contact
 
